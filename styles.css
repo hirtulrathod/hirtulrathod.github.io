@@ -5,14 +5,13 @@
  
  #background 
 { 
-	 
 	 left: 0px; 
 	 top: 0px; 
 	 position: relative; 
 	 margin-left: auto; 
 	 margin-right: auto; 
-	 width: auto;
-	 height: auto; 
+	 width: 2480px;
+	 height: 3508px; 
 	 overflow: hidden;
 	 z-index:0;
 	} 
